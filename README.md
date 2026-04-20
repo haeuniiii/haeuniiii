@@ -14,7 +14,7 @@
     <br>
     <div align= "center"> 
     <div style="font-size: 22px; font-weight: 700;">🌞Introduction </div><br>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ✔ 끊임없이 기록하고 성장하려고 노력합니다. <br></li>✔ 안정적이고 유지보수하기 좋은 시스템 개발을 지향합니다.<br></li>✔ 작은 디테일까지 개선하며 더 나은 결과를 만드는 것을 중요하게 생각합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  끊임없이 기록하고 성장하려고 노력합니다. <br></li> 안정적이고 유지보수하기 좋은 시스템 개발을 지향합니다.<br></li> 작은 디테일까지 개선하며 더 나은 결과를 만드는 것을 중요하게 생각합니다. </div> 
     </div>
     <br><br>
     <br>
